@@ -90,6 +90,9 @@
 - **[Alors On Danse Video Maker](https://alorsondansevideo.com)** `付费` `双人舞视频` `独立应用` - 两张照片生成约 13 秒棚拍双人舞视频（Paid，非官方，与 Stromae/TikTok 无关）
 - **[Bad Times AI](https://badtimesai.dev)** `付费` `舞蹈特效` `独立应用` - 一张照片生成约 14–15 秒竖屏舞蹈特效视频（Paid from $7.99）
 - **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** `付费` `场景特效` `独立应用` - 两张照片生成阳台/聚光灯相遇场景视频（Paid from $7.99）
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** `付费` `独舞视频` `独立应用` - 一张照片生成约 13 秒 480p 21:9 独舞视频（Paid from $7.99；独立非官方，不隶属 Riot Games / K/DA）
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** `付费` `双人舞视频` `独立应用` - 两张照片生成约 15 秒 480p 16:9 双人霓虹舞视频（含参考音轨；Paid from $7.99；独立非官方）
+- **[dime dime baby ai](https://dimedimebabyai.dev)** `付费` `舞蹈特效` `独立应用` - 一张照片生成约 5 秒 480p 9:16 舞蹈视频（Quince Classic / Party Groove；Paid from $7.99）
 
 ## 🎵 AI 音频生成
 
