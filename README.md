@@ -59,6 +59,7 @@
 - **[Lexica](https://lexica.art)** - Stable Diffusion搜索引擎和生成器
 - **[SeaArt](https://seaart.ai)** - 免费的AI艺术创作平台
 - **[Tensor Art](https://tensor.art)** - 专业AI图像生成社区
+- **[PromptImage](https://promptimage.cloud)** 🔥 `免费增值` `图库` `图像/视频生成` - 免费 AI 图片展馆与图像/视频生成器
 
 ## ✍️ AI 写作助手
 
@@ -85,6 +86,7 @@
 - **[Pictory](https://pictory.ai)** - 文本转视频AI工具
 - **[Fliki](https://fliki.ai)** - AI文本转视频和语音合成
 - **[Descript](https://descript.com)** - AI视频编辑和转录工具
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** `免费试用` `文本/图生视频` `独立应用` - 基于 xAI Grok Imagine API 的独立文/图生视频应用（非官方 xAI/X）
 
 ## 🎵 AI 音频生成
 
