@@ -87,6 +87,9 @@
 - **[Fliki](https://fliki.ai)** - AI文本转视频和语音合成
 - **[Descript](https://descript.com)** - AI视频编辑和转录工具
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** `免费试用` `文本/图生视频` `独立应用` - 基于 xAI Grok Imagine API 的独立文/图生视频应用（非官方 xAI/X）
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** `付费` `双人舞视频` `独立应用` - 两张照片生成约 13 秒棚拍双人舞视频（Paid，非官方，与 Stromae/TikTok 无关）
+- **[Bad Times AI](https://badtimesai.dev)** `付费` `舞蹈特效` `独立应用` - 一张照片生成约 14–15 秒竖屏舞蹈特效视频（Paid from $7.99）
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** `付费` `场景特效` `独立应用` - 两张照片生成阳台/聚光灯相遇场景视频（Paid from $7.99）
 
 ## 🎵 AI 音频生成
 
